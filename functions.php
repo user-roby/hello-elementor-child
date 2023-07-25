@@ -8,7 +8,7 @@
  * https://developers.elementor.com/docs/hello-elementor-theme/
  *
  * @package HelloElementorChild
- */
+ */ 
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
